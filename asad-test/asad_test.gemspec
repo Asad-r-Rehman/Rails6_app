@@ -3,7 +3,7 @@
 require_relative "lib/asad_test/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "asad_test"
+  spec.name = "asad-test"
   spec.version = AsadTest::VERSION
   spec.authors = ["Asad Ur Rehman"]
   spec.email = ["asadrehman.viralsquare@gmail.com"]

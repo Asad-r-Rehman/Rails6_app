@@ -22,6 +22,9 @@ class LoginsController < ApplicationController
       record.first
     end
   end
+  def about
+
+  end
 
   # def index
   #   if @agent.persisted?
